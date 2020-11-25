@@ -1,0 +1,13 @@
+{
+  "id": "jira-hosted",
+  "name": "Hosted Jira",
+  "version": "1.0.0",
+  "description": "Hosted Jira",
+  "main": "index.js",
+  "author": "Nick Morozov <neurodeep@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "hasCustomUrl": true,
+    "hasNotificationSound": true
+  }
+}
