@@ -1,0 +1,12 @@
+{
+  "id": "keeper",
+  "name": "Keeper",
+  "version": "1.0.0",
+  "description": "Keeper",
+  "main": "index.js",
+  "author": "Nick Morozov <neurodeep@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://keepersecurity.com/vault"
+  }
+}
