@@ -1,0 +1,13 @@
+{
+  "id": "confluence-hosted",
+  "name": "Hosted Confluence",
+  "version": "1.0.0",
+  "description": "Hosted Confluence",
+  "main": "index.js",
+  "author": "Nick Morozov <neurodeep@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "hasCustomUrl": true,
+    "hasNotificationSound": true
+  }
+}
