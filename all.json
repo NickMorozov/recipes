@@ -363,6 +363,17 @@
     }
   },
   {
+    "author": "Nick Morozov <neurodeep@gmail.com>",
+    "featured": false,
+    "id": "gitlab-hosted",
+    "name": "Hosted Gitlab",
+    "version": "1.0.0",
+    "icons": {
+      "png": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/gitlab-hosted/icon.png",
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/gitlab-hosted/icon.svg"
+    }
+  },
+  {
     "author": "Brian Gilbert <brian@briangilbert.net>",
     "featured": true,
     "id": "gitter",
@@ -627,6 +638,28 @@
     }
   },
   {
+    "author": "Nick Morozov <neurodeep@gmail.com>",
+    "featured": false,
+    "id": "jira-hosted",
+    "name": "Hosted Jira",
+    "version": "1.0.0",
+    "icons": {
+      "png": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/jira-hosted/icon.png",
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/jira-hosted/icon.svg"
+    }
+  },
+  {
+    "author": "Nick Morozov <neurodeep@gmail.com>",
+    "featured": false,
+    "id": "confluence-hosted",
+    "name": "Hosted Confluence",
+    "version": "1.0.0",
+    "icons": {
+      "png": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/confluence-hosted/icon.png",
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/confluence-hosted/icon.svg"
+    }
+  },
+  {
     "author": "Sampath Kumar Krishnan <sampath3493@gmail.com>",
     "featured": false,
     "id": "jitsi",
@@ -668,6 +701,17 @@
     "icons": {
       "png": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/lastpass/icon.png",
       "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/lastpass/icon.svg"
+    }
+  },
+  {
+    "author": "Nick Morozov <neurodeep@gmail.com>",
+    "featured": false,
+    "id": "keeper",
+    "name": "Keeper",
+    "version": "1.0.0",
+    "icons": {
+      "png": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/keeper/icon.png",
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/keeper/icon.svg"
     }
   },
   {
